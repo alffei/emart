@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "emart"
+    }
+  },
+  "defaultProject": "emart",
+  "cli": {
+    "analytics": false
+  }
 }
